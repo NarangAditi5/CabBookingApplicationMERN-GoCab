@@ -385,8 +385,8 @@ This project was successfully developed through the combined efforts of our dedi
 
 ## Team Members
 
-* **Member 1** – Aman Yadav
-* **Member 2** – Amit kumar (30)
-* **Member 3** – Amit Kumar (31)
-* **Member 4** – Amit Kumar Verma
+* **Member 1** – ADITI NARANG(12)
+* **Member 2** – ADARSH DIXIT(11)
+* **Member 3** – ABIK THAKUR(10)
+* **Member 4** – ABHISHEK KUMAR SING(9)
 
