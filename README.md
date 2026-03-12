@@ -1,6 +1,6 @@
 # 🚕 GoCab — MERN Stack Cab Booking App
 
-A full-stack cab booking application built with **MongoDB, Express, React, and Node.js**. Passengers can book rides, drivers can accept and manage them — all in real time.
+A full-stack cab booking application built with **MongoDB, Express, React, and Node.js**. Passengers can book rides, drivers can accept and manage them all in real time.
 
 ---
 
